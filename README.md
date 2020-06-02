@@ -1,4 +1,4 @@
-[![Sal Hack logo](https://media.discordapp.net/attachments/686085190137020445/717206330670317689/unknown.png?width=1280&height=720]
+![6h6c Logo](images/6h6c.png)
 
 [![Discord](https://img.shields.io/discord/694337597371056198?label=discord&logo=discord&logoColor=white)](https://discord.gg/UEyGRGu) 
 [![Gradle Build](https://github.com/ionar2/salhack/workflows/Gradle%20Build/badge.svg?branch=master)](https://github.com/ionar2/salhack/actions)
